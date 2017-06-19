@@ -1,0 +1,13 @@
+{
+  "name": "s2p",
+  "version": "1.0.0-SNAPSHOT",
+  "description": "Save to Samsung Pay JavaScript SDK",
+  "main": "s2p.js",
+  "repository": "https://github.com/initor/s2p",
+  "author": "Yong WEN",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mobile-detect": "^1.3.6",
+    "sweetalert2": "^6.6.5"
+  }
+}
